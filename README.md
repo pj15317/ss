@@ -1,3 +1,6 @@
+# 关于 shadowsocks
+## 科学上网工具,支持android,Mac os,Windows
+
 # shadowsocks 使用方法
 
 ## android
