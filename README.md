@@ -12,6 +12,6 @@
 * windows 10 Pro
 * [Windows安装包下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.6/Shadowsocks-4.1.6.zip)
 
-![qq_qun_qrcode](./image/qq_qun_qrcode.png)
+<img src="./image/qq_qun_qrcode.png" width="30%" height="30%">
 <br>
-![wx_qun_qrcode](./image/wx_qun_qrcode.png)
+<img src="./image/wx_qun_qrcode.jpeg" width="30%" height="30%">
