@@ -13,4 +13,5 @@
 * [Windows安装包下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.6/Shadowsocks-4.1.6.zip)
 
 ![qq_qun_qrcode](./image/qq_qun_qrcode.png)
+<br>
 ![wx_qun_qrcode](./image/wx_qun_qrcode.png)
